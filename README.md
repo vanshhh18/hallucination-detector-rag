@@ -1,6 +1,6 @@
 # Rag-Chatbot
 Link for the chatbot:
-https://rag-chatbot-wjdvvsnltezmebj9xvkrkr.streamlit.app/
+https://huggingface.co/spaces/vanshhh-18/RAG-Chatbot
 
 # Why This Chatbot is Useful for Code Files
 
