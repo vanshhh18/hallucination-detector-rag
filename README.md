@@ -1,6 +1,6 @@
 # Rag-Chatbot
 Link for the chatbot:
-https://huggingface.co/spaces/vanshhh-18/RAG-Chatbot
+https://hallucination-detector-rag-tc9fby2t5zyecftgg7ugy7.streamlit.app/
 
 # Why This Chatbot is Useful for Code Files
 
